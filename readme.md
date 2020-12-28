@@ -6,7 +6,7 @@ A well known brand is creating a landing page to showcase a proprietary dataset 
 
 ## Mocks
 The mocks for the visualization in question are located at the following url:
-https://www.figma.com/file/0xrrOuuQzo0ioWZM7DghdG/Data-Interactions-(No-Branding)?node-id=0%3A1
+https://www.figma.com/file/0xrrOuuQzo0ioWZM7DghdG/Data-Interactions-No-Branding?node-id=0%3A1
 
 ## Expected Delivery
 - a live URL to view your submission in action
@@ -14,9 +14,8 @@ https://www.figma.com/file/0xrrOuuQzo0ioWZM7DghdG/Data-Interactions-(No-Branding
 - the ability to chat through your process and decisions
 
 ## Requirements
-- Develop a front end module to match the provided mocks. Users might be able to interact with the module and manipulate it.
-- Use your best judgement it pertains to animations, interactions, etc.
-- Use your best judgement as to how to implement a mobile breakpoint.
+- Develop a front end module to match the provided mocks. The expectation is that users can interact with your work in a meaningful way, thus they should be able to utilize controls to interact with the data.
+- Use your best judgement it pertains to animations, interactivity, and responsiveness.
 - Match the mocks to the best of your ability.
 
 ## The Rules
@@ -29,6 +28,8 @@ https://www.figma.com/file/0xrrOuuQzo0ioWZM7DghdG/Data-Interactions-(No-Branding
 ## You will be graded on:
 - the resilience, strategy, and organization of your codebase
 - your knowledge of best practices
+- your grasp of the CSS language
+- semantic markup
 - the elegance, efficiency, and performance of any javascript
 - your understanding of best HTML practices
 - your creative intuition as to how to "fill in the gaps" that are missing within the design
