@@ -1,3 +1,6 @@
+---
+[![Wonderful](https://wonderful.io/meta/wonderful_lettertype_tm_1000x287_4c5965-on-white.jpg)](https://wonderful.io)
+
 # The Wonderful UI / Interaction Developer Challenge
 The purpose of this challenge is to test and measure a Front End engineer's ability to interpret and implement a sample user interface that is detailed by a provided design. In this document, we will present you with a scenario that is intended to help showcase your engineering talents and spark creative thinking and problem solving. We will be watching both the journey and the final product.
 
