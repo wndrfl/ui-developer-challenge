@@ -5,11 +5,13 @@
 The purpose of this challenge is to test and measure a Front End engineer's ability to interpret and implement a sample user interface that is detailed by a provided design. In this document, we will present you with a scenario that is intended to help showcase your engineering talents and spark creative thinking and problem solving. We will be watching both the journey and the final product.
 
 ## The Story
-A well known brand is creating a landing page to showcase a proprietary dataset that the company as aggregated over years. This dataset is particularly vast and complex, and it requires various interactive visualizations to convey its meaning. Wonderful designers have mocked several visualizations that have been approved by the client, and these visualizations are now ready to be implemented. The plan is to implement these visualizations in a way that allows them to be agnostic of the platform or framework in which they ultimately will reside. Therefore, the request is to develop them with Javascript, CSS, and HTML.
+Wonderful designers have mocked a landing page that has been approved by the "client", and this landing page is now ready to be implemented. The plan is to implement this page in a way that allows them to be agnostic of the platform or framework in which they ultimately will reside. Therefore, the request is to develop them with Javascript, CSS, and HTML.
+
+The designers and client are open for any embellishments that might further breathe life into the page, but are also content to launch a page that simply matches the design. It is at the developer's discretion as to how to interpret what is correct for this page.
 
 ## Mocks
-The mocks for the visualization in question are located at the following url:
-https://www.figma.com/file/0xrrOuuQzo0ioWZM7DghdG/Data-Interactions-No-Branding?node-id=0%3A1
+The mocks for the landing page in question are located at the following url:
+https://www.figma.com/file/sGizBkHcKcy9PUoLYgMYg8/Wonderful-UI-Code-Challenge?node-id=0%3A1
 
 ## Expected Delivery
 - a live URL to view your submission in action
@@ -17,14 +19,13 @@ https://www.figma.com/file/0xrrOuuQzo0ioWZM7DghdG/Data-Interactions-No-Branding?
 - the ability to chat through your process and decisions
 
 ## Requirements
-- Develop a front end module to match the provided mocks. The expectation is that users can interact with your work in a meaningful way, thus they should be able to utilize controls to interact with the data.
+- Develop a front end page (as much as possible within your timeframe) to match the provided mocks. The expectation to be able to understand your decisions about where to best invest your time on a design that would likely take more time than you may have available for this code challenge.
 - Use your best judgement it pertains to animations, interactivity, and responsiveness.
-- Match the mocks to the best of your ability.
+- Match the mocks to the best of your ability, within the time you have available for this challenge.
 
 ## The Rules
-- There is no time limit. You are done when you are satisfied - but the client is eager.
+- There is no time limit, but we understand that you may have limited time to complete this challenge. You are done when you are satisfied, and you feel comfortable returning your work.
 - The completed module must be written with Javascript, CSS, and HTML.
-- It is acceptable to use "fake" data.
 - You can use any resource or library that you think is *best for the product*. However, you must be able to justify and attribute any external resource.
 - You can ask as many questions you need to anybody at Wonderful. We have been working with this client for many years and can provide answers or feedback, or validate any assumptions.
 
