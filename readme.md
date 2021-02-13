@@ -5,7 +5,7 @@
 The purpose of this challenge is to test and measure a Front End engineer's ability to interpret and implement a sample user interface that is detailed by a provided design. In this document, we will present you with a scenario that is intended to help showcase your engineering talents and spark creative thinking and problem solving. We will be watching both the journey and the final product.
 
 ## The Story
-Wonderful designers have mocked a landing page that has been approved by the "client", and this landing page is now ready to be implemented. The plan is to implement this page in a way that allows them to be agnostic of the platform or framework in which they ultimately will reside. Therefore, the request is to develop them with Javascript, CSS, and HTML.
+Wonderful designers have mocked a landing page that has been approved by the "client", and this landing page is now ready to be implemented. The plan is to implement this page in a way that allows the code to be agnostic of the platform or framework in which they ultimately will reside. Therefore, the request is to develop them with Javascript, CSS, and HTML.
 
 The designers and client are open for any embellishments that might further breathe life into the page, but are also content to launch a page that simply matches the design. It is at the developer's discretion as to how to interpret what is correct for this page.
 
