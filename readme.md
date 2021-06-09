@@ -24,7 +24,7 @@ https://www.figma.com/file/sGizBkHcKcy9PUoLYgMYg8/Wonderful-UI-Code-Challenge?no
 - Match the mocks to the best of your ability, within the time you have available for this challenge.
 
 ## The Rules
-- There is no time limit, but we understand that you may have limited time to complete this challenge. You are done when you are satisfied, and you feel comfortable returning your work.
+- The recommended timeframe is less than 1 week (assuming the challenge is worked on off house, etc), but we understand that you may have limited time to complete this challenge. You are done when you are satisfied, and you feel comfortable returning your work.
 - The completed module must be written with Javascript, CSS, and HTML.
 - You can use any resource or library that you think is *best for the product*. However, you must be able to justify and attribute any external resource.
 - You can ask as many questions you need to anybody at Wonderful. We have been working with this client for many years and can provide answers or feedback, or validate any assumptions.
